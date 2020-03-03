@@ -1,0 +1,16 @@
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body {
+    background-color: orangered;
+    font-size: 22px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
